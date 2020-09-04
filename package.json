@@ -2,7 +2,7 @@
   "name": "todo-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/wrs410/react-practice",
+  "homepage": "https://wrs410.github.io/react-practice/",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^4.2.4",
