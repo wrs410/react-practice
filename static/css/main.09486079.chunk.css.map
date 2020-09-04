@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,gBACC,WAAY,CACZ,WACD,CAEA,GACC,oBACD","file":"main.09486079.chunk.css","sourcesContent":["#new-todo-input {\n\twidth: 300px;\n\theight: 50px;\n}\n\nul {\n\tlist-style-type: none;\n}"]}
